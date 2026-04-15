@@ -1,4 +1,6 @@
 # Drone-Feature-Extraction-Hackathon
+## Methodology
+<img width="1755" height="1781" alt="Methodology image" src="https://github.com/user-attachments/assets/3638be52-0358-4ffb-b75a-44024464d3ef" />
 
 ### 1. Install dependencies
 ```bash
