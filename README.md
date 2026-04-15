@@ -1,4 +1,4 @@
-<img width="1002" height="241" alt="download" src="https://github.com/user-attachments/assets/3fba37ca-ea85-4ba5-8057-1b0c6b325dbc" /># Drone-Feature-Extraction-Hackathon
+# Drone-Feature-Extraction-Hackathon
 
 ### 1. Install dependencies
 ```bash
