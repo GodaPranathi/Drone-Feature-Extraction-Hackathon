@@ -82,14 +82,23 @@ for idx in indices:
 
 
 Classes in mask: ['Building', 'Road']
+
 <img width="822" height="247" alt="download" src="https://github.com/user-attachments/assets/217129c9-cc8d-4b2c-9b4a-3050ebb80d45" />
+
 Classes in mask: ['Background', 'Waterbody']
+
 <img width="822" height="247" alt="download" src="https://github.com/user-attachments/assets/66b8a836-bcaf-4469-ac01-d1376c2317be" />
+
 Classes in mask: ['Background', 'Road']
+
 <img width="822" height="247" alt="download" src="https://github.com/user-attachments/assets/d59a22be-b94d-4a5e-bdca-67a32ea133eb" />
+
 Classes in mask: ['Background', 'Building']
+
 <img width="822" height="247" alt="download" src="https://github.com/user-attachments/assets/7a04ddb0-ed61-4059-9115-84cf9552a4a1" />
+
 Classes in mask: ['Background', 'Building']
+
 <img width="822" height="247" alt="download" src="https://github.com/user-attachments/assets/a9fe0b36-c9cc-4fc7-901d-b78480eb4a2c" />
 
 
